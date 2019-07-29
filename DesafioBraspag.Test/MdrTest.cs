@@ -52,6 +52,10 @@ namespace DesafioBraspag.Test
 
             Assert.Equal(listaEsperada[0].Adquirente, mdrRepository.RetornarMDR()[0].Adquirente);
 
+            Assert.Equal(listaEsperada[0].Adquirente, mdrRepository.RetornarMDR()[1].Adquirente);
+
+            Assert.Equal(listaEsperada[0].Adquirente, mdrRepository.RetornarMDR()[2].Adquirente);
+
         }
 
     }

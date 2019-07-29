@@ -15,3 +15,5 @@ C:\Users\Pichau\source\repos\DesafioBraspag.Test\obj\Debug\netcoreapp2.1\Desafio
 C:\Users\Pichau\source\repos\DesafioBraspag.Test\obj\Debug\netcoreapp2.1\DesafioBraspag.Test.csproj.CopyComplete
 C:\Users\Pichau\source\repos\DesafioBraspag.Test\obj\Debug\netcoreapp2.1\DesafioBraspag.Test.dll
 C:\Users\Pichau\source\repos\DesafioBraspag.Test\obj\Debug\netcoreapp2.1\DesafioBraspag.Test.pdb
+C:\Users\Pichau\source\repos\Desafio Braspag\DesafioBraspag.Test\obj\Debug\netcoreapp2.1\DesafioBraspag.Test.dll
+C:\Users\Pichau\source\repos\Desafio Braspag\DesafioBraspag.Test\obj\Debug\netcoreapp2.1\DesafioBraspag.Test.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pichau\\source\\repos\\DesafioBraspag.Test\\DesafioBraspag.Test.csproj": {}
+    "C:\\Users\\Pichau\\source\\repos\\Desafio Braspag\\DesafioBraspag.Test\\DesafioBraspag.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pichau\\source\\repos\\DesafioBraspag.Test\\DesafioBraspag.Test.csproj": {
+    "C:\\Users\\Pichau\\source\\repos\\Desafio Braspag\\DesafioBraspag.Test\\DesafioBraspag.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pichau\\source\\repos\\DesafioBraspag.Test\\DesafioBraspag.Test.csproj",
+        "projectUniqueName": "C:\\Users\\Pichau\\source\\repos\\Desafio Braspag\\DesafioBraspag.Test\\DesafioBraspag.Test.csproj",
         "projectName": "DesafioBraspag.Test",
-        "projectPath": "C:\\Users\\Pichau\\source\\repos\\DesafioBraspag.Test\\DesafioBraspag.Test.csproj",
+        "projectPath": "C:\\Users\\Pichau\\source\\repos\\Desafio Braspag\\DesafioBraspag.Test\\DesafioBraspag.Test.csproj",
         "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pichau\\source\\repos\\DesafioBraspag.Test\\obj\\",
+        "outputPath": "C:\\Users\\Pichau\\source\\repos\\Desafio Braspag\\DesafioBraspag.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\Users\\Pichau\\source\\repos\\WebApplication2\\DesafioBraspag.csproj": {
-                "projectPath": "C:\\Users\\Pichau\\source\\repos\\WebApplication2\\DesafioBraspag.csproj"
+              "C:\\Users\\Pichau\\source\\repos\\Desafio Braspag\\Desafio Braspag\\DesafioBraspag\\DesafioBraspag.csproj": {
+                "projectPath": "C:\\Users\\Pichau\\source\\repos\\Desafio Braspag\\Desafio Braspag\\DesafioBraspag\\DesafioBraspag.csproj"
               }
             }
           }
@@ -61,76 +61,6 @@
             "xunit.runner.visualstudio": {
               "target": "Package",
               "version": "[2.4.0, )"
-            }
-          },
-          "imports": [
-            "net461"
-          ],
-          "assetTargetFallback": true,
-          "warn": true
-        }
-      }
-    },
-    "C:\\Users\\Pichau\\source\\repos\\WebApplication2\\DesafioBraspag.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Pichau\\source\\repos\\WebApplication2\\DesafioBraspag.csproj",
-        "projectName": "DesafioBraspag",
-        "projectPath": "C:\\Users\\Pichau\\source\\repos\\WebApplication2\\DesafioBraspag.csproj",
-        "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pichau\\source\\repos\\WebApplication2\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "netcoreapp2.1"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "netcoreapp2.1": {
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "netcoreapp2.1": {
-          "dependencies": {
-            "Microsoft.AspNet.WebApi.Core": {
-              "target": "Package",
-              "version": "[5.2.7, )"
-            },
-            "Microsoft.AspNetCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.1.1, )",
-              "autoReferenced": true
-            },
-            "Microsoft.AspNetCore.Razor.Design": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.1.2, )"
-            },
-            "Microsoft.NETCore.App": {
-              "target": "Package",
-              "version": "[2.1.0, )",
-              "autoReferenced": true
-            },
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[2.1.9, )"
             }
           },
           "imports": [
