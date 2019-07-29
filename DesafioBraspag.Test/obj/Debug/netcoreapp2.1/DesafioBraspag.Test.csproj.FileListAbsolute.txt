@@ -1,0 +1,17 @@
+C:\Users\Pichau\source\repos\DesafioBraspag.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Pichau\source\repos\DesafioBraspag.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Pichau\source\repos\DesafioBraspag.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Pichau\source\repos\DesafioBraspag.Test\bin\Debug\netcoreapp2.1\DesafioBraspag.Test.deps.json
+C:\Users\Pichau\source\repos\DesafioBraspag.Test\bin\Debug\netcoreapp2.1\DesafioBraspag.Test.runtimeconfig.json
+C:\Users\Pichau\source\repos\DesafioBraspag.Test\bin\Debug\netcoreapp2.1\DesafioBraspag.Test.runtimeconfig.dev.json
+C:\Users\Pichau\source\repos\DesafioBraspag.Test\bin\Debug\netcoreapp2.1\DesafioBraspag.Test.dll
+C:\Users\Pichau\source\repos\DesafioBraspag.Test\bin\Debug\netcoreapp2.1\DesafioBraspag.Test.pdb
+C:\Users\Pichau\source\repos\DesafioBraspag.Test\bin\Debug\netcoreapp2.1\DesafioBraspag.dll
+C:\Users\Pichau\source\repos\DesafioBraspag.Test\bin\Debug\netcoreapp2.1\DesafioBraspag.pdb
+C:\Users\Pichau\source\repos\DesafioBraspag.Test\obj\Debug\netcoreapp2.1\DesafioBraspag.Test.csprojAssemblyReference.cache
+C:\Users\Pichau\source\repos\DesafioBraspag.Test\obj\Debug\netcoreapp2.1\DesafioBraspag.Test.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\DesafioBraspag.Test\obj\Debug\netcoreapp2.1\DesafioBraspag.Test.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\DesafioBraspag.Test\obj\Debug\netcoreapp2.1\DesafioBraspag.Test.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\DesafioBraspag.Test\obj\Debug\netcoreapp2.1\DesafioBraspag.Test.csproj.CopyComplete
+C:\Users\Pichau\source\repos\DesafioBraspag.Test\obj\Debug\netcoreapp2.1\DesafioBraspag.Test.dll
+C:\Users\Pichau\source\repos\DesafioBraspag.Test\obj\Debug\netcoreapp2.1\DesafioBraspag.Test.pdb
